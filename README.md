@@ -1,2 +1,2 @@
 # hotel-management-system
-hotel management using c++
+Hotel management system using c++
